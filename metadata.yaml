@@ -1,0 +1,28 @@
+_repo: Note-Book-of-an-English-Opium-Eater_6881
+creator:
+  author:
+    agent_name: De Quincey, Thomas
+    aliases:
+    - DeQuincey, Thomas
+    - Kvinsi, Tomas de
+    - Quincey, Thomas de
+    - Quincy, Thomas de
+    birthdate: 1785
+    deathdate: 1859
+    gutenberg_agent_id: '797'
+    url: http://www.gutenberg.org/2009/agents/797
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_de_Quincey
+description: ''
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6881'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Opium abuse -- England'
+- !lcc 'PR'
+title: Note Book of an English Opium-Eater
+url: http://www.gutenberg.org/ebooks/6881
