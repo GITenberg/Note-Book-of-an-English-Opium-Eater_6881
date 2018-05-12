@@ -1,4 +1,8 @@
 _repo: Note-Book-of-an-English-Opium-Eater_6881
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: De Quincey, Thomas
@@ -13,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/797
     wikipedia: http://en.wikipedia.org/wiki/Thomas_de_Quincey
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6881#Note-Book-of-an-English-Opium-Eater
 gutenberg_issued: '2004-11-01'
 gutenberg_type: Text
 identifiers:
